@@ -1,0 +1,8 @@
+Rencana konten
+
+- Javascript
+  *ES6
+  *Framework javascript
+- PHP framework
+- Interview
+- vlog
